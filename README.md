@@ -1,16 +1,17 @@
-### Hi there 👋
+### This is me!
 
-<!--
-**Xtendera/Xtendera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on
+    - Rewriting the [varszegimarcell/Optiplex-3020-Hackintosh-OpenCore](https://github.com/varszegimarcell/Optiplex-3020-Hackintosh-OpenCore) readme
+- 🌱 I’m currently learning
+    - C++
+    - Swift and XCode
+- 🤔 I’m looking for help with
+    - Understanding the code behind the OpenCore Bootloader
+- 💬 Ask me about
+    - Anything C#, Java, Kotlin, PHP, Javascript, or Hackintosh 
+- 📫 How to reach me:
+    - [Reddit](reddit.com/user/xtendera)
+    - [Email](mailto:geektraindev@gmail.com)
+    - Call me at +1-469-672-1958
