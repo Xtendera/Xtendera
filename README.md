@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on
-    - Rewriting the [varszegimarcell/Optiplex-3020-Hackintosh-OpenCore](https://github.com/varszegimarcell/Optiplex-3020-Hackintosh-OpenCore) readme
+    - Selenium bots
 - 🌱 I’m currently learning
     - Python
     - Selenium
