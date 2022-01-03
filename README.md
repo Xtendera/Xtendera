@@ -15,4 +15,4 @@
 - 📫 How to reach me:
     - [Reddit](reddit.com/user/xtendera)
     - [Email](mailto:geektraindev@gmail.com)
-    - Call me at +1-469-672-1958
+    - Phone: 469-333-1805
