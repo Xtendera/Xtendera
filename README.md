@@ -5,8 +5,9 @@
 - 🔭 I’m currently working on
     - Rewriting the [varszegimarcell/Optiplex-3020-Hackintosh-OpenCore](https://github.com/varszegimarcell/Optiplex-3020-Hackintosh-OpenCore) readme
 - 🌱 I’m currently learning
-    - C++
-    - Swift and XCode
+    - Python
+    - Selenium
+    - Discord.js
 - 🤔 I’m looking for help with
     - Understanding the code behind the OpenCore Bootloader
 - 💬 Ask me about
