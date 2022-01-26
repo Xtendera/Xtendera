@@ -14,6 +14,6 @@
 - 💬 Ask me about
     - Anything C#, Java, Kotlin, PHP, Javascript, or Hackintosh 
 - 📫 How to reach me:
-    - [Reddit](reddit.com/user/xtendera)
+    - [Reddit](https://reddit.com/user/xtendera)
     - [Email](mailto:geektraindev@gmail.com)
     - Phone: 469-333-1805
