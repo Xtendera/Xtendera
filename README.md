@@ -8,6 +8,7 @@
     - Python
     - Selenium
     - Discord.js
+    - Fabric Modding
 - 🤔 I’m looking for help with
     - Understanding the code behind the OpenCore Bootloader
 - 💬 Ask me about
