@@ -18,4 +18,4 @@
     - [Email](mailto:geektraindev@gmail.com)
     - Phone: 469-333-1805
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtendera)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=radical)
