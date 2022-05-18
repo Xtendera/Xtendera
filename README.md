@@ -3,10 +3,8 @@
 
 
 - 🔭 I’m currently working on
-    - Minecraft Modding
+    - [DeepShift](https://deepshift.dev)
 - 🌱 I’m currently learning
-    - Python
-    - Selenium
     - Discord.js
     - Fabric Modding
 - 🤔 I’m looking for help with
