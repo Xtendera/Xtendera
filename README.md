@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on
-    - [DeepShift](https://deepshift.dev)
+- 🔭 I’m currently working in
+    - [DeepShift Labs](https://deepshift.dev)
 - 🌱 I’m currently learning
     - Discord.js
     - Fabric Modding
