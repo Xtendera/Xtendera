@@ -5,8 +5,8 @@
 - 🔭 I’m currently working in
     - [DeepShift Labs](https://deepshift.dev)
 - 🌱 I’m currently learning
-    - Discord.js
-    - Fabric Modding
+    - Rust
+    - Social engineering
 - 🤔 I’m looking for help with
     - Understanding the code behind the OpenCore Bootloader
 - 💬 Ask me about
