@@ -1,6 +1,6 @@
 ### This is me!
 
-Hi, I am a 13 yr old who learned coding by watching videos on Youtube. I started with HTML/Javascript, and now I know over 13 different languages! I am working for Deepshift Labs sometimes on their website. I work as an open-source developer by myself, and I making server plugins for an anarchy server (aae.rip).
+Hi, I am a 13 yr old who learned coding by watching videos on Youtube. I started with HTML/Javascript, and now I know over 13 different languages! I am working for Deepshift Labs sometimes on their website. I work as an open-source developer by myself.
 
 
 - [Reddit](https://reddit.com/user/xtendera)
