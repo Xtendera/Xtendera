@@ -25,7 +25,8 @@ Hi, I am a 13 yr old who learned coding by watching videos on Youtube. I started
 
 
 - [Reddit](https://reddit.com/user/xtendera)
-- [Email](mailto:geektraindev@gmail.com)
+- Personal/GeekTrainDev Email: geektraindev@gmail.com
+- DeepShift Labs Email: ashray.shah@deepshift.dev
 - Phone: 469-333-1805
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
