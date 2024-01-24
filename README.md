@@ -1,6 +1,6 @@
 ### This is me!
 
-Hi, I am a 13 yr old cybersecurity and programming enthusiast. I am working for Deepshift Labs sometimes on their website. I work as an open-source developer by myself. I believe that students should have more freedom and should not be restricted as much as they are now.
+Hi, I am a 14 yr old cybersecurity and programming enthusiast. I am working for Deepshift Labs sometimes on their website. I work as an open-source developer by myself. I believe that students should have more freedom and should not be restricted as much as they are now.
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
