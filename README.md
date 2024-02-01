@@ -1,4 +1,4 @@
-### This is me!
+### Howdy!
 
 Hi, I am a 14 yr old cybersecurity and programming enthusiast. I am working for Deepshift Labs sometimes on their website. I work as an open-source developer by myself. I believe that students should have more freedom and should not be restricted as much as they are now.
 
