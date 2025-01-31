@@ -1,6 +1,6 @@
 ### Howdy!
 
-Hi, I am a 14 yr old cybersecurity and programming enthusiast. I am proudly interned at $`CS^2`$ making CS education better! I also work for Deepshift Labs sometimes. I work as an open-source developer by myself. I believe that students should have more freedom and should not be restricted as much as they are now.
+Hi, I am a 15 yr old cybersecurity and programming enthusiast. I am proudly interned at AYODE making CS education better! I also work for Deepshift Labs sometimes. I work as an open-source developer by myself. I believe that students should have more freedom and should not be restricted as much as they are now.
 
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
