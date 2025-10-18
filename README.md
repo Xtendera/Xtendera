@@ -25,4 +25,4 @@ Hi, I am a 15 yr old cybersecurity and programming enthusiast. I am proudly inte
 - Personal/GTD Email: geektraindev@gmail.com
 - DeepShift Labs Email: ashray.shah@deepshift.dev
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Xtendera's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtendera&show_icons=true&theme=transparent)
