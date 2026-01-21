@@ -1,6 +1,8 @@
 ### Howdy!
 
-Hi, I am a 15 yr old cybersecurity and programming enthusiast. I am proudly interned at AYODE making education better! Feel free to reach me on discord (xtendera#0).
+Hi, I am a 16 year old cybersecurity and programming enthusiast. I am proudly interned at AYODE making education better! Feel free to reach me on discord (xtendera#0).
+
+![Xtendera's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtendera&show_icons=true&theme=transparent)
 
 ## Operating System
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
@@ -42,5 +44,3 @@ Hi, I am a 15 yr old cybersecurity and programming enthusiast. I am proudly inte
 
 - [Reddit](https://reddit.com/user/geektraindev)
 - Personal/GTD Email: geektraindev@gmail.com
-
-![Xtendera's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtendera&show_icons=true&theme=transparent)
