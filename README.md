@@ -42,5 +42,4 @@ Hi, I am a 16 year old cybersecurity and programming enthusiast. I am proudly in
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-- [Reddit](https://reddit.com/user/geektraindev)
 - Personal/GTD Email: geektraindev@gmail.com
