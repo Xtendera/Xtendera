@@ -2,8 +2,6 @@
 
 Hi, I am a 16 year old cybersecurity and programming enthusiast. I am proudly interned at AYODE making education better! Feel free to reach me on discord (xtendera#0).
 
-![Xtendera's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtendera&show_icons=true&theme=transparent)
-
 ## Operating System
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -41,5 +39,3 @@ Hi, I am a 16 year old cybersecurity and programming enthusiast. I am proudly in
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-- Personal/GTD Email: geektraindev@gmail.com
